@@ -1,3 +1,5 @@
+### Running docker container with PostgreSQL and imported sales data
+
 Instructions:
 1. Ensure the `sales_data.csv` file is in the `./source-data` folder
 2. In the terminal, change the directory to the `docker`
