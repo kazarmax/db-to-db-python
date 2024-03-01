@@ -1,4 +1,4 @@
-h2. Prerequisites
+## Prerequisites
 Ensure you have the following software installed on your laptop:
  - git
  - Python
@@ -6,7 +6,7 @@ Ensure you have the following software installed on your laptop:
  - DBeaver
  - Visual Studio Code (dark theme and extensions: Python, Jupyter, Rainbow CSV)
 
-h2. Project tasks
+## Project tasks
 1. Clone the repo and access it using VS Code
 2. Generate data
 3. Load data to PostgreSQL
